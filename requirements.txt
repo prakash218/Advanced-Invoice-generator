@@ -1,0 +1,7 @@
+ 
+Requirements:
+
+Openpyxl
+tkcalendar
+xlrd
+num2words
